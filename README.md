@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @dvirdamrizz69
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python/unreal engine
-- 💞️ I’m looking to collaborate on games
+- 👋 Hi, I’m @dvirdamrizz69.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning python, cyber security and java. 
 - 📫 How to reach me. dvirgg2323@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: i like python
 
 <!---
