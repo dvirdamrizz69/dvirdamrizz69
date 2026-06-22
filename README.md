@@ -15,4 +15,4 @@ Outside of coding, I’m interested in source-based public debate and public-fac
 
 ## Current focus
 
-Getting better at writing clean code, understanding security, and building projects that are useful, organized, and serious.
+Getting better at writing clean code, understanding security, and building projects that are useful, organized, and practical.
